@@ -9,6 +9,15 @@ export default function Works() {
     {
       id: "1",
       icon: "./assets/mobile.png",
+      title: "Rgyan",
+      desc:
+        "I am an experienced backend developer who has expertise in developing RESTful API endpoints using Node.js, Express.js, MySql, Javascript",
+      img:
+        "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
+    },
+    {
+      id: "2",
+      icon: "./assets/mobile.png",
       title: "CHALBO INDIA",
       desc:
         "Designed and developed the taxi booking web App",
@@ -16,7 +25,7 @@ export default function Works() {
         "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
     },
     {
-      id: "2",
+      id: "3",
       icon: "./assets/globe.png",
       title: "Unscripted India",
       desc:

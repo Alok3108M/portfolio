@@ -33,7 +33,7 @@ export default function Intro() {
           <h3>Explorer_<span>
               <Typewriter
                 options={{
-                           strings: [' _Web Developer', ' _Reader','_Photographer'],
+                           strings: [' _Software Developer', ' _Reader',' _Photographer'],
                            autoStart: true,
                            loop: true,
                           }}
